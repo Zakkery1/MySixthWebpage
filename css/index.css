@@ -7,10 +7,12 @@
 .Unordered{
     border-radius: 10%;    
 } 
-.Ordered{
-    box-shadow: 
-    inset 2px 2px;
+.Anchor{
+    color: white;
 }
 body{
     background-image: url("./giphy.gif");
+    background-size: cover;
+
+    height: 50vh;
 }
