@@ -1,7 +1,16 @@
+.Header{
+    color: white;
+}
+.List{
+    color: white;
+}
 .Unordered{
     border-radius: 10%;    
 } 
 .Ordered{
     box-shadow: 
     inset 2px 2px;
+}
+body{
+    background-image: url("./giphy.gif");
 }
